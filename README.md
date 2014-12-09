@@ -12,7 +12,7 @@ To make apache autoindex pages look good, with a little help of bootstrap and jq
 + Add [jquery from distribution](https://github.com/jquery/jquery)
 + Customize header.html and footer.html to suit your needs.
 
-You can link bootstrap and jquery from online CDN, but I recomend to make local copies for dev server.
+You can link bootstrap and jquery from online CDN, but I recommend to make local copies for dev server.
 
 ### Apache config
 
